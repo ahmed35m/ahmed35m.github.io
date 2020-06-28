@@ -30,7 +30,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+# Disabled minima theme updates 28/June/2020
+# theme: minima
 plugins:
   - jekyll-feed
 
